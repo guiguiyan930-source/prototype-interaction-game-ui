@@ -1,0 +1,6 @@
+interface:
+  display_name: "两步法游戏UI生成"
+  short_description: "先拆功能结构，再生成游戏UI提示词"
+  default_prompt: "Use $two-step-game-ui-generator to turn a game UI prototype or reference image into a polished game UI prompt with a functional breakdown, style extraction table, parameter block, and negative prompt."
+policy:
+  allow_implicit_invocation: true
